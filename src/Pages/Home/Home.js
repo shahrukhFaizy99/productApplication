@@ -1,6 +1,7 @@
 import React from "react";
 
 const Home = () => {
+  //   console.log(auth);
   return (
     <div>
       <h1>Home Page</h1>
